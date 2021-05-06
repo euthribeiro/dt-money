@@ -2,6 +2,8 @@
 
 Aplicação Web para gestão de finanças pessoais.
 
+![alt text](https://github.com/euthribeiro/dt-money/blob/master/public/exemple.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
