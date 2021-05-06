@@ -1,4 +1,4 @@
-# Dt Money
+# DT MONEY
 
 Aplicação Web para gestão de finanças pessoais.
 
