@@ -15,12 +15,17 @@ export const Container = styled.div`
 
         &:last-child{
             background: var(--green);
+            color: #fff;
         }
 
         header { 
             display: flex;
             justify-content: space-between;
             align-items: center;
+
+            p {
+                line-height: 1.5rem;
+            }
         }
 
         strong { 
